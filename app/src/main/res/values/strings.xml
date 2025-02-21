@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Assignment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="list_id" >List id</string>
+    <string name="name">Name</string>
+    <string name="id" >Id</string>
+</resources>
